@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+
+.recipe-button {
+    background-color: orange;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+.recipes button a:visited {
+    color: inherit;
+}
+
+img {
+    width: 100%;
+    max-width: 30%;
+}
+
